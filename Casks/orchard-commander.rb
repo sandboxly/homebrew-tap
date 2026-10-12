@@ -1,6 +1,6 @@
 cask "orchard-commander" do
-  version "1.0.0"
-  sha256 "941920ef1e0728076d6cf4178639ad127bbf4b380b28e7f059549877f77c905a"
+  version "1.1.0"
+  sha256 "d8508e84c32b7d75fcd0bb97f53adc228cb832e76df54e73430d4290e4321f15"
 
   url "https://github.com/sandboxly/orchard-commander/releases/download/v#{version}/Orchard-Commander-macOS.dmg"
   name "Orchard Commander"
