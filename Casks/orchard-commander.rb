@@ -1,6 +1,6 @@
 cask "orchard-commander" do
-  version "1.1.1"
-  sha256 "04fea029b77bed4d590ca1f558f92261ab9bd095b3d14076b0838d3b67290f28"
+  version "2.0.0"
+  sha256 "7c81890fcea5d8b0e385bb13ca28f440a27055402618b1a8f504a1dfdec57d3d"
 
   url "https://github.com/sandboxly/orchard-commander/releases/download/v#{version}/Orchard-Commander-macOS.dmg"
   name "Orchard Commander"
@@ -13,7 +13,7 @@ cask "orchard-commander" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: :sonoma
+  depends_on macos: :monterey
 
   app "Orchard Commander.app"
 
