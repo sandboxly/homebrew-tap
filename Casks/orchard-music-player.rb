@@ -1,6 +1,6 @@
 cask "orchard-music-player" do
-  version "1.0.0"
-  sha256 "4e20684508512bd9bbf46946d6ece7b1141bae4a3e0a8b5f560c6a43f7005905"
+  version "1.0.1"
+  sha256 "684c310f9fb244c9895ed929ad01321d892efd82ad49dcbba4b48b25bfed39ad"
 
   url "https://github.com/sandboxly/orchard-music-player/releases/download/v#{version}/Orchard-Music-Player-macOS.dmg"
   name "Orchard Music Player"
