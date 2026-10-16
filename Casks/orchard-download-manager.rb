@@ -1,6 +1,6 @@
 cask "orchard-download-manager" do
-  version "1.0.1"
-  sha256 "a2dba3bdbc2a8ef50a24d766653d4e42487429e943da84159dc0f43e54c513be"
+  version "1.1.0"
+  sha256 "189851b45e5a4222661ad0831540a1b42659d9a5783bdf4065249efa0f405501"
 
   url "https://github.com/sandboxly/orchard-download-manager/releases/download/v#{version}/Orchard-Download-Manager-macOS.dmg"
   name "Orchard Download Manager"
